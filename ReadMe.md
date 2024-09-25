@@ -18,4 +18,3 @@
   <img src="https://visitcount.itsvg.in/api?id=Manishpal&label=Profile%20Views&color=0&pretty=false" />
 </a>
 ---
-[![](https://visitcount.itsvg.in/api?id=manishpal4&icon=0&color=0)](https://visitcount.itsvg.in)
